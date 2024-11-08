@@ -1,0 +1,32 @@
+com.example.inapppurchase.app-debug-0 C:\FlutterProjects\inapppurchase\android\app\src\debug\res
+com.example.inapppurchase.app-main-1 C:\FlutterProjects\inapppurchase\android\app\src\main\res
+com.example.inapppurchase.app-pngs-2 C:\FlutterProjects\inapppurchase\build\app\generated\res\pngs\debug
+com.example.inapppurchase.app-resValues-3 C:\FlutterProjects\inapppurchase\build\app\generated\res\resValues\debug
+com.example.inapppurchase.app-rs-4 C:\FlutterProjects\inapppurchase\build\app\generated\res\rs\debug
+com.example.inapppurchase.app-mergeDebugResources-5 C:\FlutterProjects\inapppurchase\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.inapppurchase.app-mergeDebugResources-6 C:\FlutterProjects\inapppurchase\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.inapppurchase.app-merged_res-7 C:\FlutterProjects\inapppurchase\build\app\intermediates\merged_res\debug
+com.example.inapppurchase.app-packaged_res-8 C:\FlutterProjects\inapppurchase\build\in_app_purchase_android\intermediates\packaged_res\debug
+com.example.inapppurchase.app-lifecycle-livedata-2.7.0-9 C:\Users\Apps 9\.gradle\caches\transforms-3\0313b4099446464f98d0df0606c58c95\transformed\lifecycle-livedata-2.7.0\res
+com.example.inapppurchase.app-jetified-core-1.0.0-10 C:\Users\Apps 9\.gradle\caches\transforms-3\052a56087b23de77791a629d260284c0\transformed\jetified-core-1.0.0\res
+com.example.inapppurchase.app-jetified-profileinstaller-1.3.1-11 C:\Users\Apps 9\.gradle\caches\transforms-3\166e5df34c1c015ef6ddeae137513a3f\transformed\jetified-profileinstaller-1.3.1\res
+com.example.inapppurchase.app-lifecycle-viewmodel-2.7.0-12 C:\Users\Apps 9\.gradle\caches\transforms-3\2e94595ca22e3aadcdebdc547820608c\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.inapppurchase.app-jetified-billing-6.2.0-13 C:\Users\Apps 9\.gradle\caches\transforms-3\41c6ae2f7b0d38c5115788d4be4fbbd4\transformed\jetified-billing-6.2.0\res
+com.example.inapppurchase.app-jetified-lifecycle-livedata-core-ktx-2.7.0-14 C:\Users\Apps 9\.gradle\caches\transforms-3\455c428e62a6dd75da98c7152f7af462\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.inapppurchase.app-jetified-activity-1.8.1-15 C:\Users\Apps 9\.gradle\caches\transforms-3\4b07bb875192e8c29c9b76677237c5c8\transformed\jetified-activity-1.8.1\res
+com.example.inapppurchase.app-jetified-annotation-experimental-1.4.0-16 C:\Users\Apps 9\.gradle\caches\transforms-3\4d10c72f31024081b56fc5037069e011\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.inapppurchase.app-jetified-startup-runtime-1.1.1-17 C:\Users\Apps 9\.gradle\caches\transforms-3\4ee1d1c3643bd699aea17aa2adbcb7ee\transformed\jetified-startup-runtime-1.1.1\res
+com.example.inapppurchase.app-jetified-window-java-1.2.0-18 C:\Users\Apps 9\.gradle\caches\transforms-3\5292c4072ce6d2ab49b0e25db445cdfe\transformed\jetified-window-java-1.2.0\res
+com.example.inapppurchase.app-jetified-play-services-base-18.3.0-19 C:\Users\Apps 9\.gradle\caches\transforms-3\6d807e350b37d9206ed12dedf519bf85\transformed\jetified-play-services-base-18.3.0\res
+com.example.inapppurchase.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-20 C:\Users\Apps 9\.gradle\caches\transforms-3\6e7c2231d2ac9b957ecfe9d432e59ed2\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.inapppurchase.app-core-runtime-2.2.0-21 C:\Users\Apps 9\.gradle\caches\transforms-3\73778f1c206428361b6eebbb974be913\transformed\core-runtime-2.2.0\res
+com.example.inapppurchase.app-jetified-core-ktx-1.13.1-22 C:\Users\Apps 9\.gradle\caches\transforms-3\740c93e8e1043856a6b7cb15a7eaa9f0\transformed\jetified-core-ktx-1.13.1\res
+com.example.inapppurchase.app-jetified-play-services-basement-18.3.0-23 C:\Users\Apps 9\.gradle\caches\transforms-3\7b4881d0d08dada2f4df61a6dcb57279\transformed\jetified-play-services-basement-18.3.0\res
+com.example.inapppurchase.app-lifecycle-runtime-2.7.0-24 C:\Users\Apps 9\.gradle\caches\transforms-3\98474e5913354eaede53aaa879a4dd8b\transformed\lifecycle-runtime-2.7.0\res
+com.example.inapppurchase.app-jetified-savedstate-1.2.1-25 C:\Users\Apps 9\.gradle\caches\transforms-3\aadceac8ee0316c01a9163bad1a5e0ed\transformed\jetified-savedstate-1.2.1\res
+com.example.inapppurchase.app-fragment-1.7.1-26 C:\Users\Apps 9\.gradle\caches\transforms-3\c683cde5b1f5377825fe27da54e1b718\transformed\fragment-1.7.1\res
+com.example.inapppurchase.app-lifecycle-livedata-core-2.7.0-27 C:\Users\Apps 9\.gradle\caches\transforms-3\ce9e6112a0f9c5113844bb49506e7a06\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.inapppurchase.app-jetified-window-1.2.0-28 C:\Users\Apps 9\.gradle\caches\transforms-3\d47b1192960df52846144d82ac9e1d6f\transformed\jetified-window-1.2.0\res
+com.example.inapppurchase.app-jetified-lifecycle-process-2.7.0-29 C:\Users\Apps 9\.gradle\caches\transforms-3\d674cd90e13def17f77b3f8010d35e09\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.inapppurchase.app-jetified-tracing-1.2.0-30 C:\Users\Apps 9\.gradle\caches\transforms-3\e67a2d3f5080e81a9ca4ada76d6846fb\transformed\jetified-tracing-1.2.0\res
+com.example.inapppurchase.app-core-1.13.1-31 C:\Users\Apps 9\.gradle\caches\transforms-3\fac84cd5ecf1ec88a8c98571217c9350\transformed\core-1.13.1\res
